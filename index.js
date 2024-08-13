@@ -6,7 +6,4 @@
     
 }
 
-// export default print
-
 export {print}
-
