@@ -1,0 +1,23 @@
+{
+  "name": "print_hellow",
+  "version": "1.0.0",
+  "description": "only for check its working or not ",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshul00000/print_hellow.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Anshul Chaurasiya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anshul00000/print_hellow/issues"
+  },
+  "homepage": "https://github.com/anshul00000/print_hellow#readme"
+}
